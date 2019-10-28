@@ -3,3 +3,4 @@ this is a new file!
 This is a new line!
 
 I am adding this new line (local machine)
+Let's make a conflict!!
