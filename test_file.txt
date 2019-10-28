@@ -1,1 +1,3 @@
-This is a test file to push to Github. 
+This is a test file to push to Github.
+
+Let's make a conflict!
